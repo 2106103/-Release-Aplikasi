@@ -22,12 +22,12 @@ class AboutPage extends StatelessWidget {
             CircleAvatar(
               radius: 60,
               backgroundImage: AssetImage(
-                  'assets/images/pp.jpg'), // replace with your image link or asset path
+                  'assets/images/Zihan.png'), // replace with your image link or asset path
             ),
             SizedBox(height: 20),
             // Name
             Text(
-              "Muhamad Ikhsan Safari",
+              "Zihan Melinda",
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.bold,
@@ -48,7 +48,7 @@ class AboutPage extends StatelessWidget {
               "notesappmobile",
               style: TextStyle(
                 fontSize: 16,
-                color: Color.fromARGB(255, 0, 0, 0),
+                color: Color.fromARGB(255, 142, 28, 28),
                 fontWeight: FontWeight.bold,
               ),
             ),
